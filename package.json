@@ -1,0 +1,15 @@
+{
+  "name": "javascript-datastructures-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rafinhaa <rafinhaa@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "tsx": "tsx",
+    "js": "node"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
