@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Rafinhaa <rafinhaa@me.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "tsx": "tsx",
     "js": "node"
