@@ -16,7 +16,7 @@ The book covers fundamental principles of data structures and algorithms, provid
 - [x] Chapter 2: Overview of ECMAScript and TypeScript
 - [x] Chapter 3: Arrays
 - [x] Chapter 4: Stacks
-- [ ] Chapter 5: Queues and Deques
+- [x] Chapter 5: Queues and Deques
 - [ ] Chapter 6: Linked Lists
 - [ ] Chapter 7: Sets
 - [ ] Chapter 8: Dictionaries and Hashes
