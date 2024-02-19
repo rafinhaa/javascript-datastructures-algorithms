@@ -17,7 +17,7 @@ The book covers fundamental principles of data structures and algorithms, provid
 - [x] Chapter 3: Arrays
 - [x] Chapter 4: Stacks
 - [x] Chapter 5: Queues and Deques
-- [ ] Chapter 6: Linked Lists
+- [x] Chapter 6: Linked Lists
 - [ ] Chapter 7: Sets
 - [ ] Chapter 8: Dictionaries and Hashes
 - [ ] Chapter 9: Recursion
