@@ -20,7 +20,7 @@ The book covers fundamental principles of data structures and algorithms, provid
 - [x] Chapter 6: Linked Lists
 - [x] Chapter 7: Sets
 - [x] Chapter 8: Dictionaries and Hashes
-- [ ] Chapter 9: Recursion
+- [x] Chapter 9: Recursion
 - [ ] Chapter 10: Trees
 - [ ] Chapter 11: Binary Heap and Heap Sort
 - [ ] Chapter 12: Graphs
